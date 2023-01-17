@@ -81,6 +81,8 @@ func main() {
 	fmt.Println("The player", player, "is not injured")
 
 	*/
+	
+	// check youtrack lalala
 
 	var quote string
 	quote = "hey, lousy. go fuck yourself"
